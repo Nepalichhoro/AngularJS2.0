@@ -1,0 +1,106 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.14.12
+3 info using node@v4.3.1
+4 verbose readDependencies loading dependencies from /Users/bigyandahal/Desktop/angular2-epl/package.json
+5 warn package.json angular2-quickstart@1.0.0 No repository field.
+6 verbose install where, deps [ '/Users/bigyandahal/Desktop/angular2-epl',
+6 verbose install   [ 'angular2',
+6 verbose install     'systemjs',
+6 verbose install     'es6-promise',
+6 verbose install     'es6-shim',
+6 verbose install     'reflect-metadata',
+6 verbose install     'rxjs',
+6 verbose install     'zone.js',
+6 verbose install     'concurrently',
+6 verbose install     'lite-server',
+6 verbose install     'typescript' ] ]
+7 verbose install where, peers [ '/Users/bigyandahal/Desktop/angular2-epl', [] ]
+8 verbose installManyTop reading for lifecycle /Users/bigyandahal/Desktop/angular2-epl/package.json
+9 info preinstall angular2-quickstart@1.0.0
+10 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/angular2/package.json
+11 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/concurrently/package.json
+12 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/es6-promise/package.json
+13 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/es6-shim/package.json
+14 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/lite-server/package.json
+15 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/reflect-metadata/package.json
+16 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/rxjs/package.json
+17 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/systemjs/package.json
+18 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/typescript/package.json
+19 verbose installManyTop reading scoped package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/zone.js/package.json
+20 verbose readDependencies loading dependencies from /Users/bigyandahal/Desktop/angular2-epl/package.json
+21 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/angular2/package.json
+22 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/concurrently/package.json
+23 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/es6-promise/package.json
+24 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/es6-shim/package.json
+25 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/lite-server/package.json
+26 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/reflect-metadata/package.json
+27 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/rxjs/package.json
+28 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/systemjs/package.json
+29 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/typescript/package.json
+30 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/zone.js/package.json
+31 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/.bin/concurrent/package.json
+32 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/.bin/concurrently/package.json
+33 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/.bin/lite-server/package.json
+34 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/.bin/tsc/package.json
+35 verbose targetResolver reading package data from /Users/bigyandahal/Desktop/angular2-epl/node_modules/.bin/tsserver/package.json
+36 verbose already installed skipping rxjs@5.0.0-beta.2 /Users/bigyandahal/Desktop/angular2-epl
+37 verbose already installed skipping zone.js@0.5.15 /Users/bigyandahal/Desktop/angular2-epl
+38 verbose already installed skipping concurrently@^2.0.0 /Users/bigyandahal/Desktop/angular2-epl
+39 verbose already installed skipping lite-server@^2.1.0 /Users/bigyandahal/Desktop/angular2-epl
+40 verbose already installed skipping typescript@^1.7.5 /Users/bigyandahal/Desktop/angular2-epl
+41 verbose already installed skipping angular2@2.0.0-beta.7 /Users/bigyandahal/Desktop/angular2-epl
+42 verbose already installed skipping systemjs@0.19.22 /Users/bigyandahal/Desktop/angular2-epl
+43 verbose already installed skipping es6-promise@^3.0.2 /Users/bigyandahal/Desktop/angular2-epl
+44 verbose already installed skipping es6-shim@^0.33.3 /Users/bigyandahal/Desktop/angular2-epl
+45 verbose already installed skipping reflect-metadata@0.1.2 /Users/bigyandahal/Desktop/angular2-epl
+46 silly install resolved []
+47 info build /Users/bigyandahal/Desktop/angular2-epl
+48 info linkStuff angular2-quickstart@1.0.0
+49 silly linkStuff angular2-quickstart@1.0.0 has /Users/bigyandahal/Desktop as its parent node_modules
+50 verbose linkBins angular2-quickstart@1.0.0
+51 verbose linkMans angular2-quickstart@1.0.0
+52 verbose rebuildBundles angular2-quickstart@1.0.0
+53 verbose rebuildBundles [ '.bin',
+53 verbose rebuildBundles   'angular2',
+53 verbose rebuildBundles   'concurrently',
+53 verbose rebuildBundles   'es6-promise',
+53 verbose rebuildBundles   'es6-shim',
+53 verbose rebuildBundles   'lite-server',
+53 verbose rebuildBundles   'reflect-metadata',
+53 verbose rebuildBundles   'rxjs',
+53 verbose rebuildBundles   'systemjs',
+53 verbose rebuildBundles   'typescript',
+53 verbose rebuildBundles   'zone.js' ]
+54 info install angular2-quickstart@1.0.0
+55 info postinstall angular2-quickstart@1.0.0
+56 verbose unsafe-perm in lifecycle true
+57 info angular2-quickstart@1.0.0 Failed to exec postinstall script
+58 verbose stack Error: angular2-quickstart@1.0.0 postinstall: `typings install`
+58 verbose stack spawn ENOENT
+58 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:17:16)
+58 verbose stack     at emitTwo (events.js:87:13)
+58 verbose stack     at ChildProcess.emit (events.js:172:7)
+58 verbose stack     at maybeClose (internal/child_process.js:821:16)
+58 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+59 verbose pkgid angular2-quickstart@1.0.0
+60 verbose cwd /Users/bigyandahal/Desktop/angular2-epl
+61 error Darwin 14.5.0
+62 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install"
+63 error node v4.3.1
+64 error npm  v2.14.12
+65 error file sh
+66 error code ELIFECYCLE
+67 error errno ENOENT
+68 error syscall spawn
+69 error angular2-quickstart@1.0.0 postinstall: `typings install`
+69 error spawn ENOENT
+70 error Failed at the angular2-quickstart@1.0.0 postinstall script 'typings install'.
+70 error This is most likely a problem with the angular2-quickstart package,
+70 error not with npm itself.
+70 error Tell the author that this fails on your system:
+70 error     typings install
+70 error You can get their info via:
+70 error     npm owner ls angular2-quickstart
+70 error There is likely additional logging output above.
+71 verbose exit [ 1, true ]
